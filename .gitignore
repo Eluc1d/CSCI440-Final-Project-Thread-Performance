@@ -1,0 +1,5 @@
+c/matrix_mult
+c/monte_carlo
+c/merge_sort
+rust/*/target/
+results.csv
